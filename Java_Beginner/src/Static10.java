@@ -9,7 +9,7 @@ class Emp{
 	//making it static means it will not change;
 	static String company;
 	static int revenew;
-	
+	//static block runs before the constructor;
 	
 	//we can also initialize a static block which will run once;
 	static {
@@ -31,7 +31,7 @@ public class Static10 {
 			Emp shank = new Emp();
 			//assigning the value to static variables;
 			//it can be done by class name or object;
-			//but using class is peferable;
+			//but using class is preferable;
 			Emp.company="Shank Comp";
 			
 
