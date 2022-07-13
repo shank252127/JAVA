@@ -13,6 +13,7 @@ public class FirstCode {
 		int a = 5; //there is always range to avoid overflow;
 		a=10;				
 		// variable can be start with symbol or alpha but not numbers
+		//print vs println;
 		System.out.print(a);
 		System.out.print("\n");
 		double b = 6.6;
@@ -34,5 +35,15 @@ public class FirstCode {
 // Primitive Data Types:
 	//	int i = 5 : integers;
 
-// there are various datatypes
+// there are various datatypes;
+// TypeCasting - Implecit and Explicit;
+
+// Class Name : CamelCasing - String, Integer, Rocket;
+// Interfaces
+
+// variable - abc
+// constants - ABC
+// constructor - Abc()
+// Method - abc()
+// Interface - Stretchable
 	
